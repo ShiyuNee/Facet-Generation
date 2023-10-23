@@ -1,6 +1,6 @@
 # Facet-Generation
 
-This is the source code for paper "A Comparative Study of Training Objectives for Clarification Facet Generation(SIGIR-AP 2023)".
+This is the source code for paper [A Comparative Study of Training Objectives for Clarification Facet Generation(SIGIR-AP 2023)](https://arxiv.org/pdf/2310.00703v1.pdf)
 
 # Requirements and Installation
 
