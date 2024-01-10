@@ -22,3 +22,10 @@ We just provide model weights in the following websites(`Seq-default` contains b
 - `seq-avg-perm`: https://huggingface.co/Shiyunee/seq-avg-perm
 - `set-pred`: https://huggingface.co/Shiyunee/set-pred
 - `seq-set-pred`: https://huggingface.co/Shiyunee/seq-set-pred
+
+# Usage
+
+- `data_process.py`: prepare data for inference
+- `inference.py`: generate facets for the given data
+- `evaluation.py`: evaluate the results
+- `score.py`: replace `score.py` in `bert_score`(package) with this file so we can load the model and tokenizer only once
